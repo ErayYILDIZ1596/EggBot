@@ -24,4 +24,4 @@ async def on_message(message):
     else:
         await message.channel.send(message.content)
 
-client.run("MTIxMzQwMjYwNDIyNzI2ODYxOA.GJ-xTT.DlmG9OoXfNCYLv8lET47R4diOj64g-gykW0i3M")
+client.run("EggBotTokenHere")
